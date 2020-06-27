@@ -1,2 +1,2 @@
 # Javascript-2020
-Projetos em javascript
+Projetos em JavaScript

@@ -1,2 +1,2 @@
-# Javascript-2020
+# Javascript ECMAScript
 Projetos em JavaScript
